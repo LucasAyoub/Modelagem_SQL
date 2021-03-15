@@ -1,4 +1,4 @@
-# Modelagem_SQL
+# Modelagem SQL
 
 ## Arquivos criados para praticar as formas normais e as regras da modelagem
 
