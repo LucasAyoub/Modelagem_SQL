@@ -4,3 +4,4 @@
 
 * Picole = Exer sobre uma fabrica de picoles e o desenvolvimento da modelagem de acordo com o que é pedido
 * Farmacia = Exer sobre uma farmacia e o desenvolvimento da modelagem de acordo com o que é pedido
+* Locadora = Exer de modelagem envolvendo uma locadora 
