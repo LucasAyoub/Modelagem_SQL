@@ -1,7 +1,7 @@
-# Modelagem SQL
+# SQL Modeling
 
-## Arquivos criados para praticar as formas normais e as regras da modelagem
+## Files created to practice normal shapes and modeling rules
 
-* Picole = Exer sobre uma fabrica de picoles e o desenvolvimento da modelagem de acordo com o que é pedido
-* Farmacia = Exer sobre uma farmacia e o desenvolvimento da modelagem de acordo com o que é pedido
-* Locadora = Exer de modelagem envolvendo uma locadora 
+* Picole = Exercise on a popsicle factory and the development of the modeling according to what is requested
+* Farmacia = Exercise on a pharmacy and the development of modeling according to what is requested
+* Locadora = Modeling exercise involving a video store
